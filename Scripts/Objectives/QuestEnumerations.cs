@@ -1,0 +1,19 @@
+﻿public enum QUESTNAME
+{
+	TakeUpArms,
+	EquipYourBlade,
+	SelectCleave,
+	CleaveYourFoes,
+	EquipHatchet,
+	OakLumber,
+	OakPlanks,
+	RebuildBridge,
+	CrossBridge,
+	SlayGoblins,
+	SlayOutpostLead,
+	RetrieveBow,
+	EquipBow,
+	SetRecurveSkill,
+	SnipeThrice,
+	MineBlockade,
+}
